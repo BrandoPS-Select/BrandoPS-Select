@@ -1,16 +1,29 @@
-## Hi there 👋
+# Brando — Software Engineer & Entrepreneur
 
-<!--
-**BrandoPS-Select/BrandoPS-Select** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building athletic analytics and sports software at Prospect Select Baseball**
 
-Here are some ideas to get you started:
+I design and develop data-driven platforms that help amateur baseball players get seen by college coaches and pro scouts. My work sits at the intersection of sports, analytics, and product engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Developing athletic analytics tools and player evaluation software at [Prospect Select Baseball](https://play.ps-baseball.com)
+- Building systems that turn raw performance data (FlightScope, Blast Motion, athletic testing) into actionable recruiting insights
+- Operating as a technical founder / entrepreneur focused on sports technology
+
+### Focus Areas
+- Sports analytics platforms
+- Player performance data pipelines
+- Full-stack product development for athletic organizations
+- Entrepreneurial product ownership
+
+### Tech I Work With
+`Python` · `JavaScript/TypeScript` · `React` · `Node.js` · `SQL` · `Data Visualization` · `Cloud Services` · `Analytics Tooling`
+
+### Looking For
+Opportunities to build high-impact sports technology products — whether as a technical co-founder, product-focused engineer, or advisor in the athletic tech space.
+
+---
+
+**Open to conversations about:**
+- Sports analytics product roles
+- Technical leadership in sports tech startups
+- Collaborations around player development platforms
