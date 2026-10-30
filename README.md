@@ -19,14 +19,15 @@
 
 ### About Me
 
-I'm a software engineer and entrepreneur focused on **athletic analytics and sports software**.  
-At **Prospect Select Baseball**, I build data-driven platforms that help amateur players get discovered by college coaches and pro scouts.
+I'm a **software engineer and entrepreneur** building the next generation of athletic analytics and sports software.  
 
-I turn raw performance data (FlightScope, Blast Motion, athletic testing metrics) into clear, actionable insights that power recruiting decisions.
+At **Prospect Select Baseball**, I design and develop data-driven platforms that help amateur players get discovered by college coaches and professional scouts. I specialize in turning complex performance data — exit velocities, spin rates, athletic testing metrics, and more — into clear, actionable insights that power smarter recruiting decisions.
 
-- Currently building player evaluation & analytics tools
-- Passionate about the intersection of sports, data, and product
-- Entrepreneurial mindset — I love owning the full product lifecycle
+I work across the full stack (web + mobile) and love owning products from idea to launch. Whether it’s a Flutter app, a web dashboard, or a backend analytics pipeline, I focus on building tools that actually move the needle for athletes and organizations.
+
+- Currently building player evaluation & analytics tools at Prospect Select  
+- Passionate about the intersection of sports, data, and product  
+- Entrepreneurial mindset — I enjoy owning the full product lifecycle  
 
 ---
 
